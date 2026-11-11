@@ -4,7 +4,7 @@ LangChain tools for [ReNoUn](https://harrisoncollab.com) structural market regim
 
 **Know when NOT to trade.** ReNoUn analyzes market microstructure across 17 channels to classify the current regime as `bounded`, `active`, or `unstable` — then tells your agent whether to `proceed`, `reduce`, `avoid`, or `monitor`.
 
-100% bounded regime accuracy across 265+ graded predictions.
+Earlier accuracy claims for ReNoUn have been withdrawn; they were never compared against a base rate.
 
 ## Installation
 
